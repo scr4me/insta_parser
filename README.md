@@ -1,5 +1,5 @@
 # insta_parser
-Python Scripts to Parse Instagram JSON Data into Pandas Dataframes
+Python Scripts to Parse Instagram JSON Data into Pandas Dataframes.
 These parsers were written to plot exif_data of instagram json files.
 
 - Download your Instagram Account Data using this Manual:
